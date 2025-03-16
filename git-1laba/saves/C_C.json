@@ -1,0 +1,16 @@
+{
+    "name": "C_C",
+    "elements": 
+    [
+        {
+            "type": "button",
+            "text": "Button",
+            "style": "classic"
+        },
+        {
+            "type": "textfield",
+            "placeholder": "Button",
+            "style": "classic"
+        }
+    ]
+}

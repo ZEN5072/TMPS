@@ -1,0 +1,15 @@
+{
+    "name": "M_M",
+    "elements": [
+        {
+            "type": "button",
+            "text": "M",
+            "style": "material"
+        },
+        {
+            "type": "textfield",
+            "placeholder": "M",
+            "style": "material"
+        }
+    ]
+}
